@@ -6,3 +6,6 @@ We decided to produce this project based on several available services. The prim
 
 These organizations originally focus on low-income patients by providing them services at nominal price or for free.
 One of the key feature of our project is the delivery system that we are inspired from various delivery systems such as “HungryNaki”,”Chaldal”,”FoodPanda’,”UberEats”,”PathaoFoods”. These online services are efficient at delivery of material in local areas.
+
+
+![](image/backNEW.jpg)
